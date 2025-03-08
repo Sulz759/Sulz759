@@ -1,10 +1,10 @@
 Hi 👋 My name is Daniil Katkov
 ==============================
 
-I'am Unity C# Developer
+I'm Unity C# Developer
 -----------------------
 
-I am a co-creator of the "Little Dark Age" project, strategy with a focus on Area Control and elements of roguelike, creating clean code using programming patterns and the latest development standards
+I'm a co-creator of the "Little Dark Age" project, strategy with a focus on Area Control and elements of roguelike, creating clean code using programming patterns and the latest development standards
 
 * 🌍  I'm based in Russia, Saint Petersburg
 * 🖥️  See my portfolio at [GitHub(Sulz759)](http://github.com/Sulz759)
